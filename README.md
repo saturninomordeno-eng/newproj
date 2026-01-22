@@ -1,3 +1,4 @@
 # newproj
 #Hello nex
-My contribution
+nex idol
+hello nex this is prince
